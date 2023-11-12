@@ -1,3 +1,3 @@
 # python_kurs
-uygulamalar
-xcxz
+[PYTHON](https://www.python.org/)
+![python](https://www.pngegg.com/en/png-dqlwx)
