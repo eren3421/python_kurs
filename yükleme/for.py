@@ -5,3 +5,4 @@ for a in range(1,11):
 meyveler=["Elma","Armut","Muz"]
 for i in meyveler:
     print(i)
+#ssadffds
